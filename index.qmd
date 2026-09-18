@@ -1,7 +1,11 @@
 ---
-title: "assinment-3-btf26"
+title: "assginment-3-btf26 Collaboration Practice"
 ---
 
-This is a Quarto website.
+## Collaborators
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+- Collaborator 1: Ben Furber <https://github.com/bfurber26>
+
+- Collaborator 2: Cristhian Ochoa <https://github.com/caor8a>
+
+![Laricobius nigrinus feeding on adelges tsugae](https://blogs.cornell.edu/nyshemlockinitiative/files/2018/06/20170406_160045-29m8060.jpg)
