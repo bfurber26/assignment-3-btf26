@@ -1,6 +1,6 @@
 ---
 title: "assingment-3-btf26"
-format: gfm
+format: html
 editor: visual
 ---
 

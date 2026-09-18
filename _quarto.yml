@@ -1,5 +1,7 @@
 project:
   type: website
+  output-dir: docs
+  
 
 website:
   title: "assinment-3-btf26"
